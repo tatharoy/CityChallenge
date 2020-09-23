@@ -16,7 +16,8 @@ Any unexpected input should result in a ’no’ response.
 To run the project locally,  expected Maven is installed
 
 Steps to run  
-# mvn spring-boot:run
+
+mvn spring-boot:run
 
 The API can be tested via API documentation available at 
 
