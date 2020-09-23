@@ -1,4 +1,4 @@
-"# CityChallenge" 
+# CityChallenge
 
 List of roads is available in a file. The file contains a list of city
 pairs (one pair per line, comma separated), which indicates that there’s a
